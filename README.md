@@ -1,5 +1,13 @@
-# knox
-most secure messaging app - post-quantum cryptography implemented
+# Knox - PQC Secure Messaging Backend
+
+This project provides the backend services for a secure messaging application utilizing post-quantum cryptographic algorithms.
+
+**Tech Stack:**
+*   Python
+*   FastAPI
+*   SQLAlchemy (SQLite)
+*   OQS (liboqs bindings for PQC)
+*   Uvicorn
 
 
 ## Kyber + X25519 Messaging App
